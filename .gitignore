@@ -1,2 +1,3 @@
 #  là config loại bỏ các file khi tải lên git 
+src/public/css
 node_modules/
